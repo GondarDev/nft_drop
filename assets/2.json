@@ -1,0 +1,19 @@
+{
+    "name": "Monkey",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "HX6iRagxofpiZoTBHDq46EAY6CcpCxcpRSELSac6zTcV",
+          "share": 100
+        }
+      ]
+    }
+  }

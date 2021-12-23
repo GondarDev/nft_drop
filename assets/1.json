@@ -1,0 +1,19 @@
+{
+    "name": "Simba",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "HX6iRagxofpiZoTBHDq46EAY6CcpCxcpRSELSac6zTcV",
+          "share": 100
+        }
+      ]
+    }
+  }
