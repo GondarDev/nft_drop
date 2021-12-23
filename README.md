@@ -50,3 +50,7 @@ REACT_APP_SOLANA_NETWORK - Set this to devnet as this is just the network in whi
 REACT_APP_SOLANA_RPC_HOST - This is pretty much the same as above. Since we are accessing out Candy Machine on devnet we need to point the RPC to that devnet link which is https://explorer-api.devnet.solana.com
 
 
+
+Right now, our "drop" already happened since we set the date to be in the past. Feel free to change the date to sometime in future using the update_candy_machine command. Here, I set it to Dec 1, 2022.
+
+ts-node ~/metaplex-foundation/metaplex/js/packages/cli/src/candy-machine-cli.ts update_candy_machine --date "1 Dec 2022 00:12:00 GMT" --env devnet --keypair ~/.config/solana/devnet.json
