@@ -1,10 +1,10 @@
 {
-  "dna": "4dc590def7c03e70750ebd0d333ad2144ec668b9",
-  "name": "Chimpz #2",
+  "dna": "698590b6d97ac55938ec708947748b4402101bf3",
+  "name": "Chimpz #5",
   "description": "222 Chimpz Earning $Bananaz, Breeding Baby Chimpz, And Sharing P2E Game Revenue On The #Solana Blockchain.",
   "image": "image.png",
-  "edition": 2,
-  "date": 1645715952969,
+  "edition": 5,
+  "date": 1645715953496,
   "symbol": "Chimpz",
   "seller_fee_basis_points": 0,
   "external_url": "Chimpz",
@@ -15,7 +15,7 @@
   "properties": {
     "files": [
       {
-        "uri": "2.png",
+        "uri": "5.png",
         "type": "image/png"
       }
     ],
@@ -30,7 +30,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Yellow"
+      "value": "Green"
     },
     {
       "trait_type": "Base",
@@ -38,11 +38,11 @@
     },
     {
       "trait_type": "Fur",
-      "value": "Brown"
+      "value": "Black"
     },
     {
       "trait_type": "Eyes",
-      "value": "Green"
+      "value": "Stoned"
     },
     {
       "trait_type": "Mouth",
@@ -50,15 +50,15 @@
     },
     {
       "trait_type": "Clothes",
-      "value": "BulletProofVest"
+      "value": "Blanket"
     },
     {
       "trait_type": "Mask",
-      "value": "None"
+      "value": "Scared"
     },
     {
       "trait_type": "Head",
-      "value": "GraduationCap"
+      "value": "Durag"
     }
   ],
   "compiler": "inst:"

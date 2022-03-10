@@ -1,19 +1,65 @@
 {
-    "name": "Simba",
-    "symbol": "",
-    "image": "1.png",
-    "properties": {
-      "files": [
-        {
-          "uri": "1.png",
-          "type": "image/png"
-        }
-      ],
-      "creators": [
-        {
-          "address": "HX6iRagxofpiZoTBHDq46EAY6CcpCxcpRSELSac6zTcV",
-          "share": 100
-        }
-      ]
+  "dna": "337fa23b0aed3fafe080b3eab295ed1f780cf683",
+  "name": "Chimpz #1",
+  "description": "222 Chimpz Earning $Bananaz, Breeding Baby Chimpz, And Sharing P2E Game Revenue On The #Solana Blockchain.",
+  "image": "image.png",
+  "edition": 1,
+  "date": 1645715952815,
+  "symbol": "Chimpz",
+  "seller_fee_basis_points": 0,
+  "external_url": "Chimpz",
+  "collection": {
+    "name": "Chimpz",
+    "family": "Chimpz"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5kw7JFE1Htxnh1RpMGqkA58ny6R8Desrg9vG6R6bomhG",
+        "share": 30
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blanket"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
     }
-  }
+  ],
+  "compiler": "inst:"
+}
